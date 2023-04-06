@@ -1,3 +1,8 @@
 {
-    manifest:
+    "manifest":{
+        "author": "Nezu",
+        "name": "MLP_Unicorn",
+        "version": "1.0",
+        "license": "Enable: Custom fonts recomended"
+    },
 }
