@@ -1,2 +1,3 @@
-# Programming and Basics
-Created themes by Nezu <3
+# Aliuwucord Custom Discord themes 
+
+Copy the .json file(s) to themes folder (device/Aluicord/themes) Activate and select Restart button
