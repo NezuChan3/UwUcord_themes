@@ -1,0 +1,42 @@
+{
+    "manifest": {
+        "author": "Nezu",
+        "name": "Hideri_UwUv1.0",
+        "version": "1.0",
+        "license": "Enable Custom fonts recomended"
+    },
+    "background": {},
+    "fonts": {
+        "*": "https://cdn.discordapp.com/attachments/1092138699963248660/1092160524441112727/Peralta-Regular.ttf"
+    },
+    "simple_colors": {
+        "accent": -7278617,
+        "active_channel": -7278617,
+        "background": -14263979,
+        "background_secondary": -16428469,
+        "input_background": -16508653,
+        "mention_highlight": -16151680,
+        "statusbar": -16146285,
+        "blocked_bg": -16568276
+    },
+    "colors": {
+        "primary_dark": -7278617,
+        "primary_dark_100": -7278617,
+        "primary_dark_130": -7278617,
+        "primary_dark_160": -7278617,
+        "primary_dark_200": -5701633,
+        "primary_dark_230": -198426,
+        "primary_dark_260": -267286,
+        "primary_dark_300": -7278617,
+        "primary_dark_330": -16449599,
+        "primary_dark_360": -7278617,
+        "primary_dark_400": -7278617,
+        "primary_dark_430": -661780,
+        "primary_dark_460": -267286,
+        "primary_dark_630": -16568276,
+        "uikit_btn_bg_color_selector_red": -16449599,
+        "uikit_btn_bg_color_selector_green": -14816568
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
